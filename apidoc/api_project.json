@@ -1,0 +1,16 @@
+{
+  "title": "insurance-api",
+  "url": "localhost:8080",
+  "name": "insurance-api",
+  "version": "0.1.0",
+  "description": "Insurance policies and company clients web api",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2019-06-07T12:41:04.263Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.7"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "insurance-api",
+  "version": "0.1.0",
+  "description": "Insurance policies and company clients web api",
+  "main": "app.js",
+  "scripts": {
+    "test": "",
+    "apiDoc": "apidoc -i routes/ -o apidoc/"
+  },
+  "author": "elhmidi.hicham@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.0"
+  },
+  "apidoc": {
+    "title": "insurance-api",
+    "url": "localhost:8080"
+  }
+}
